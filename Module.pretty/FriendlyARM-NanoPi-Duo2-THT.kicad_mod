@@ -567,4 +567,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
+  (model ${KISYS3DMOD}/Modules.3dshapes/nanopi-duo2-reveng.step
+    (offset (xyz 65 -58.5 13.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
