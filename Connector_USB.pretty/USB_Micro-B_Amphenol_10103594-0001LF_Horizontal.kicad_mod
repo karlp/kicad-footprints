@@ -55,4 +55,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KISYS3DMOD}/Connector_USB.3dshapes/USB_Amp-10103594.step"
+    (offset (xyz 0 0.2 2.2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 -180))
+  )
 )
