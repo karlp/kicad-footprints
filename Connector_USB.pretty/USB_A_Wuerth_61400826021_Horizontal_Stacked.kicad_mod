@@ -80,4 +80,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KISYS3DMOD}/Connector_USB.3dshapes/c-5787617-2-a-3d.stp"
+    (offset (xyz 3.5 -15.6 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
