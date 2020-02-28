@@ -45,4 +45,9 @@
   (pad "3" thru_hole circle (at -2 1 90) (size 1.1 1.1) (drill 0.92) (layers *.Cu *.Mask))
   (pad "2" thru_hole circle (at -2 -1 90) (size 1.1 1.1) (drill 0.92) (layers *.Cu *.Mask))
   (pad "1" thru_hole circle (at -2 -3.5 90) (size 1.1 1.1) (drill 0.92) (layers *.Cu *.Mask))
+  (model "${KISYS3DMOD}/Connector_USB.3dshapes/usb-a-plug-tht-cnctech-1002-015-01001.step"
+    (offset (xyz 28 24.25 6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -180 -180 0))
+  )
 )
