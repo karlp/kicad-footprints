@@ -1,4 +1,4 @@
-(module L_CHILISIN_BMRx00060615 (layer F.Cu) (tedit 6033BCCC)
+(module L_CHILISIN_BMRx00060615 (layer F.Cu) (tedit 6033C2EE)
   (descr "Inductor, Chilisin, BMRx/MHCI Series, 6.6mmx7.3mm, 1.3mm height. Replaces MCHI_06015 (Script generated with StandardBox.py) (https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf)")
   (tags "Inductor BMRx 1.3mm")
   (attr smd)
@@ -41,7 +41,7 @@
   (fp_text user "" (at 0 0) (layer F.SilkS)
     (effects (font (size 3 3) (thickness 0.15)))
   )
-  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CHILISIN_BMRx00060615.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CHILISIN_BMRx00060615.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
